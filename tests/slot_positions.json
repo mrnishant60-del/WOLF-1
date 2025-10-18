@@ -1,0 +1,254 @@
+[
+  {
+    "slot": 1,
+    "blue_box": {
+      "center_x": 73,
+      "center_y": 558,
+      "width": 40,
+      "height": 46
+    },
+    "white_rect": {
+      "left": 101,
+      "center_y": 558,
+      "width": 0
+    }
+  },
+  {
+    "slot": 2,
+    "blue_box": {
+      "center_x": 560,
+      "center_y": 573,
+      "width": 64,
+      "height": 50
+    },
+    "white_rect": {
+      "left": 600,
+      "center_y": 573,
+      "width": 0
+    }
+  },
+  {
+    "slot": 4,
+    "blue_box": {
+      "center_x": 560,
+      "center_y": 638,
+      "width": 64,
+      "height": 51
+    },
+    "white_rect": {
+      "left": 600,
+      "center_y": 638,
+      "width": 0
+    }
+  },
+  {
+    "slot": 5,
+    "blue_box": {
+      "center_x": 65,
+      "center_y": 707,
+      "width": 3,
+      "height": 2
+    },
+    "white_rect": {
+      "left": 74,
+      "center_y": 707,
+      "width": 0
+    }
+  },
+  {
+    "slot": 6,
+    "blue_box": {
+      "center_x": 562,
+      "center_y": 703,
+      "width": 68,
+      "height": 51
+    },
+    "white_rect": {
+      "left": 604,
+      "center_y": 703,
+      "width": 0
+    }
+  },
+  {
+    "slot": 8,
+    "blue_box": {
+      "center_x": 561,
+      "center_y": 768,
+      "width": 66,
+      "height": 50
+    },
+    "white_rect": {
+      "left": 602,
+      "center_y": 768,
+      "width": 0
+    }
+  },
+  {
+    "slot": 10,
+    "blue_box": {
+      "center_x": 562,
+      "center_y": 834,
+      "width": 67,
+      "height": 49
+    },
+    "white_rect": {
+      "left": 603,
+      "center_y": 834,
+      "width": 0
+    }
+  },
+  {
+    "slot": 11,
+    "blue_box": {
+      "center_x": 65,
+      "center_y": 899,
+      "width": 1,
+      "height": 1
+    },
+    "white_rect": {
+      "left": 73,
+      "center_y": 899,
+      "width": 0
+    }
+  },
+  {
+    "slot": 12,
+    "blue_box": {
+      "center_x": 561,
+      "center_y": 899,
+      "width": 66,
+      "height": 49
+    },
+    "white_rect": {
+      "left": 602,
+      "center_y": 899,
+      "width": 0
+    }
+  },
+  {
+    "slot": 13,
+    "blue_box": {
+      "center_x": 56,
+      "center_y": 974,
+      "width": 70,
+      "height": 88
+    },
+    "white_rect": {
+      "left": 99,
+      "center_y": 974,
+      "width": 0
+    }
+  },
+  {
+    "slot": 14,
+    "blue_box": {
+      "center_x": 560,
+      "center_y": 964,
+      "width": 67,
+      "height": 49
+    },
+    "white_rect": {
+      "left": 601,
+      "center_y": 964,
+      "width": 0
+    }
+  },
+  {
+    "slot": 16,
+    "blue_box": {
+      "center_x": 567,
+      "center_y": 1029,
+      "width": 53,
+      "height": 49
+    },
+    "white_rect": {
+      "left": 601,
+      "center_y": 1029,
+      "width": 0
+    }
+  },
+  {
+    "slot": 17,
+    "blue_box": {
+      "center_x": 65,
+      "center_y": 1120,
+      "width": 2,
+      "height": 1
+    },
+    "white_rect": {
+      "left": 74,
+      "center_y": 1120,
+      "width": 0
+    }
+  },
+  {
+    "slot": 18,
+    "blue_box": {
+      "center_x": 561,
+      "center_y": 1094,
+      "width": 65,
+      "height": 49
+    },
+    "white_rect": {
+      "left": 601,
+      "center_y": 1094,
+      "width": 0
+    }
+  },
+  {
+    "slot": 19,
+    "blue_box": {
+      "center_x": 62,
+      "center_y": 1168,
+      "width": 6,
+      "height": 3
+    },
+    "white_rect": {
+      "left": 73,
+      "center_y": 1168,
+      "width": 0
+    }
+  },
+  {
+    "slot": 20,
+    "blue_box": {
+      "center_x": 562,
+      "center_y": 1160,
+      "width": 64,
+      "height": 51
+    },
+    "white_rect": {
+      "left": 602,
+      "center_y": 1160,
+      "width": 0
+    }
+  },
+  {
+    "slot": 22,
+    "blue_box": {
+      "center_x": 562,
+      "center_y": 1224,
+      "width": 62,
+      "height": 50
+    },
+    "white_rect": {
+      "left": 601,
+      "center_y": 1224,
+      "width": 0
+    }
+  },
+  {
+    "slot": 24,
+    "blue_box": {
+      "center_x": 562,
+      "center_y": 1289,
+      "width": 62,
+      "height": 51
+    },
+    "white_rect": {
+      "left": 601,
+      "center_y": 1289,
+      "width": 0
+    }
+  }
+]
