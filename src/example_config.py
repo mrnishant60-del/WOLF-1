@@ -1,0 +1,25 @@
+# for tortoise-orm
+
+TORTOISE = {}
+
+
+POSTGRESQL = {}
+
+EXTENSIONS = ()
+
+DISCORD_TOKEN = ""
+
+COLOR = 0x00FFB3
+
+FOOTER = "wolf is lub!"
+
+PREFIX = "w"
+
+SERVER_LINK = ""
+
+DEVS = (985731890193502269,)
+
+# LOGS
+SHARD_LOG = ""
+ERROR_LOG = ""
+PUBLIC_LOG = ""
